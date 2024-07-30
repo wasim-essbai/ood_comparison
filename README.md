@@ -1,1 +1,1 @@
-# ood_comparison
+# OoD methods comparison
